@@ -1,0 +1,16 @@
+📌 Core Features
+- 📊 Real-time Market Prices
+- 📍 Location-based Buyer Matching
+- 🧑‍🌾 Farmer & Buyer Profiles
+- ✉️ SMS Notifications (via Africa's Talking)
+- 🈸 Multilingual (Swahili, English)
+
+
+ 🚀 Getting Started
+ 
+ Frontend (React Native)
+
+`bash
+cd client
+npm install
+npm run android # or run ios
